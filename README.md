@@ -1,12 +1,12 @@
 # authdemo
 * initial routes
-=========================
+
 # after that
 *create user model
-configure passport
-========================
+*configure passport
 
-#routes
+
+# routes
 *add register route
 *add register form
 
